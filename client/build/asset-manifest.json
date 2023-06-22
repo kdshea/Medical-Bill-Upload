@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0f1be04f.css",
-    "main.js": "/static/js/main.6fa95d86.js",
+    "main.js": "/static/js/main.f1ca88dc.js",
     "static/media/pig-cape.jpg": "/static/media/pig-cape.e8240b204b7726a9a4ca.jpg",
     "static/media/detective-pig.png": "/static/media/detective-pig.a7accf667ccc6f72ac8f.png",
     "static/media/spinner.gif": "/static/media/spinner.bbecf458433e70c152ed.gif",
     "index.html": "/index.html",
     "static/media/logo.svg": "/static/media/logo.12a2ff413a4816233c771f8cb3d52dd6.svg",
     "main.0f1be04f.css.map": "/static/css/main.0f1be04f.css.map",
-    "main.6fa95d86.js.map": "/static/js/main.6fa95d86.js.map"
+    "main.f1ca88dc.js.map": "/static/js/main.f1ca88dc.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1be04f.css",
-    "static/js/main.6fa95d86.js"
+    "static/js/main.f1ca88dc.js"
   ]
 }
