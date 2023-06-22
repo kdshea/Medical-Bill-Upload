@@ -8,7 +8,7 @@ This is a comprehensive web application developed for Truffle Health. Truffle He
 ## Deployment Link
 The front end and server have been deployed together using Render and are available [here.](https://medical-bills.onrender.com/) The PostgreSQL database is hosted separately.
  
-![Preview Image](ReadMe-Images/Preview.jpg)
+![Preview Image](ReadMe-images/Preview.jpg)
 
 
 ## Bugs
