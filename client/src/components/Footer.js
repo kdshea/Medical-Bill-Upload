@@ -5,7 +5,7 @@ const Footer = () => {
 
 
   return (
-    <div className="footer-container">
+    <div className="footer-container">~
       <div className="footer p-3">
         <div className="footer-logo">
           <img width="33.13" height="30" className="d-inline-block align-top"src={logo} alt="Truffle Health Logo"/>
